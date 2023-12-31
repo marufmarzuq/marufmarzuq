@@ -19,7 +19,7 @@ Check out my [portfolio](https://marufmarzuq.vercel.app) for more information.
 ### Recent Achievements / Contributions
 
 * Developed [Figma plugin](https://www.figma.com/community/plugin/1209922740177393208) using typescript and figma API which have 15,000+ active users.
-* Developed UI and Intrigated APIs of [Edu CRM](https://github.com/tldr-pages/tldr-translation-pairs-gen), to increase customer retention for any education consultancy farms.
+* Developed UI and Intrigated APIs of [Edu CRM](https://softvalley.net/product/educrm), to increase customer retention for any education consultancy farms.
 </div>
 <br/>
 <br/>
