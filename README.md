@@ -4,7 +4,7 @@
 <div align="left">
   <p>Hi there, I'm a full-stack web developer living in Dhaka, Bangladesh.</p>
 
-- I currently work at [@FringeCore_](https://github.com/fringecore) as a Software Engineer
+- I currently work at [FringeCore_](https://github.com/fringecore) as a Software Engineer
 - I use JavaScript (especially React) daily
 - I’m currently learning **Devops**
 - All of my projects are available at [maruf's workspace](https://marufmarzuq.vercel.app/work)
