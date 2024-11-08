@@ -1,6 +1,3 @@
-<div align="right">
-  <a href="https://app.daily.dev/marufmarzuq"><img src="https://api.daily.dev/devcards/55e9b230affe49f7b8f124f4c2aab434.png?r=akg" width="18%" align="right" alt="Maruf Marzuq's Dev Card"/></a>
-</div>
 <div align="left">
   <p>Hi there, I'm a full-stack web developer living in Dhaka, Bangladesh.</p>
 
@@ -18,7 +15,7 @@ Check out my [portfolio](https://marufmarzuq.vercel.app) for more information.
   
 ### Recent Achievements / Contributions
 
-* Developed [Figma plugin](https://www.figma.com/community/plugin/1209922740177393208) using typescript and figma API which have 15,000+ active users.
+* Developed [Figma plugin](https://www.figma.com/community/plugin/1209922740177393208) using typescript and figma API which have 30,000+ active users.
 * Developed UI and Intrigated APIs of [Edu CRM](https://softvalley.net/product/educrm), to increase customer retention for any education consultancy farms.
 </div>
 <br/>
